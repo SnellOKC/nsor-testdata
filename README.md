@@ -26,3 +26,6 @@ npm start
 `mongoimport --db MEVN-boilerplate --collection bpsdetail --type csv --headerline --file BPSDetail_TestLoad.csv`
 `mongoimport --db MEVN-boilerplate --collection phdetail --type csv --headerline --file PHDetail_TestLoad.csv`
 
+
+Ignore the /posts information inside of this folder. I cloned an existing MEVN framework and that was in there as an example. The page you will be working with is /phdetail.
+
